@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
-        self.view.backgroundColor = UIColor.yellow
+        self.view.backgroundColor = UIColor.red
     }
 
 
